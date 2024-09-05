@@ -1,0 +1,15 @@
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\bin\Debug\net8.0\BootcampCsharpC1.exe
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\bin\Debug\net8.0\BootcampCsharpC1.deps.json
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\bin\Debug\net8.0\BootcampCsharpC1.runtimeconfig.json
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\bin\Debug\net8.0\BootcampCsharpC1.dll
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\bin\Debug\net8.0\BootcampCsharpC1.pdb
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\obj\Debug\net8.0\BootcampCsharpC1.GeneratedMSBuildEditorConfig.editorconfig
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\obj\Debug\net8.0\BootcampCsharpC1.AssemblyInfoInputs.cache
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\obj\Debug\net8.0\BootcampCsharpC1.AssemblyInfo.cs
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\obj\Debug\net8.0\BootcampCsharpC1.csproj.CoreCompileInputs.cache
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\obj\Debug\net8.0\BootcampCsharpC1.sourcelink.json
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\obj\Debug\net8.0\BootcampCsharpC1.dll
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\obj\Debug\net8.0\refint\BootcampCsharpC1.dll
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\obj\Debug\net8.0\BootcampCsharpC1.pdb
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\obj\Debug\net8.0\BootcampCsharpC1.genruntimeconfig.cache
+F:\BC#\Modulo01\Semana01\Clase01\BootcampCsharpC1\obj\Debug\net8.0\ref\BootcampCsharpC1.dll
