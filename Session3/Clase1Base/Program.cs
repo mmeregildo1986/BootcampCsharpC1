@@ -14,10 +14,35 @@ Console.WriteLine("Escribe tu nombre");
 nombre=Console.ReadLine();
 Console.WriteLine("Mi nombre es "+nombre+" y mi edad es " +edad);
 Console.WriteLine($"Mi altura es {altura}");
-Console.WriteLine("escrib e tu dinero");
+Console.WriteLine("escribe tu dinero");
+
 //este es com entyario de prueba
 /*
  * comentrarioi largo
  */
 dinero =double.Parse(Console.ReadLine());
 Console.WriteLine($"tu dinero es{dinero}");
+Console.WriteLine("Escribe tu edad");
+edad = int.Parse( Console.ReadLine());
+Console.WriteLine($"Mi edad es:  {edad}");
+
+if (edad >= 18) 
+{
+    Console.WriteLine("Puedes ingresar eres mayor de edad");
+}
+else
+{
+    Console.WriteLine("No puedes ingresar vete a tu casa");
+}
+Console.WriteLine("tienes gorro???");
+string respuestaGorro = Console.ReadLine();
+if (respuestaGorro == "si")
+{ 
+tieneGorro = true;
+}
+else if (respuestaGorro =="no")
+{ tieneGorro = false; }
+
+if (tieneGorro == true)
+{ Console.WriteLine("si tienes gorro entra"); }
+else { Console.WriteLine("no tienes gorro largate"); }
