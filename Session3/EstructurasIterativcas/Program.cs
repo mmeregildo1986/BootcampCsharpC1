@@ -26,10 +26,14 @@ do
 Console.ReadLine();
 */
 
-int opcion = 0;
+double opcion = 0;
 
 while (opcion !=7)
 {
+    Console.WriteLine("Ingresa los numeros a Operar!");
+    double numero1 = int.Parse(Console.ReadLine());
+    double numero2 = int.Parse(Console.ReadLine());
+    double Suma = 0;
     Console.WriteLine("Menu----------------->");
     Console.WriteLine("1.-Sumar");
     Console.WriteLine("2.-Restar");
@@ -40,13 +44,26 @@ while (opcion !=7)
     Console.WriteLine("7.-Salir");
     Console.WriteLine("Ingresa la opcion");
     opcion = int.Parse(Console.ReadLine());
-    if (opcion == 1)
-    { Console.WriteLine("Sumando");
-    
-    }
-    if (opcion==2)
+    switch (opcion)
     {
-        Console.WriteLine("Resta");
+        case 1:
+            Suma = numero1 + numero2;
+            break;
+        case 2:
+            Suma = numero1 - numero2;
+            break;
+        case 3:
+            Suma = numero1 * numero2;
+            break;
+        case 4:
+            Suma = numero1 / numero2;
+            break;
+        case 5:
+            break;
+            default:
+            break;
     }
+
+    Console.WriteLine($"El resultado es {Math.Round(Suma,2)}");
  }
 Console.WriteLine("Salida");
